@@ -2453,8 +2453,8 @@ body {
   color: #ffffff;
 }
 .cid-qK9SPpFKTh {
-  padding-top: 75px;
-  padding-bottom: 75px;
+  padding-top: 90px;
+  padding-bottom: 60px;
   background-color: #ffffff;
   background: linear-gradient(45deg, #ffffff, #c1c1c1);
 }
@@ -2478,6 +2478,17 @@ body {
 }
 .cid-qK9SPpFKTh .mbr-text,
 .cid-qK9SPpFKTh .mbr-section-btn {
+  color: #000000;
+}
+.cid-qK9SPpFKTh .mbr-text,
+.cid-qK9SPpFKTh .mbr-section-btn P {
+  color: #000000;
+  text-align: center;
+}
+.cid-qK9SPpFKTh H3 {
+  color: #787324;
+}
+.cid-qK9SPpFKTh B {
   color: #000000;
 }
 .cid-qK8xkwHToh .navbar {
