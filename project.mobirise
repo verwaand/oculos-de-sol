@@ -2598,7 +2598,7 @@
               }
             },
             "H1": {
-              "color": "#232323"
+              "color": "#000000"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#000000"
