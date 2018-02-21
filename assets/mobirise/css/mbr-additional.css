@@ -23,17 +23,17 @@ body {
 }
 .display-1 {
   font-family: 'Oswald', sans-serif;
-  font-size: 4.4rem;
+  font-size: 4rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 7.04rem;
+  font-size: 6.4rem;
 }
 .display-2 {
   font-family: 'Rubik', sans-serif;
-  font-size: 3.8rem;
+  font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 6.08rem;
+  font-size: 4.8rem;
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
@@ -63,14 +63,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.52rem;
-    font-size: calc( 2.19rem + (4.4 - 2.19) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.19rem + (4.4 - 2.19) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.2rem;
+    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 3.04rem;
-    font-size: calc( 1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.4rem;
+    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.96rem;
@@ -1698,6 +1698,36 @@ body {
 .cid-qK8AF7dIP9 H3 {
   color: #ffffff;
 }
+.cid-qK8CF1cxtl {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-qK8CF1cxtl .mbr-text,
+.cid-qK8CF1cxtl blockquote {
+  color: #767676;
+}
+.cid-qK8CF1cxtl BLOCKQUOTE {
+  color: #879a9f;
+}
+.cid-qK8CF1cxtl P {
+  color: #767676;
+}
+.cid-qK8VutxrTS {
+  padding-top: 60px;
+  padding-bottom: 105px;
+  background-image: url("../../../assets/images/verwaand-oculos-de-sol-capa-5-1920x1280.jpg");
+}
+.cid-qK8VutxrTS .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: left;
+}
+.cid-qK8VutxrTS .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-qK8VutxrTS H2 {
+  color: #ffffff;
+}
 .cid-qK8XyME0zJ {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -1737,36 +1767,6 @@ body {
   .cid-qK8XyME0zJ .card-img span {
     font-size: 40px !important;
   }
-}
-.cid-qK8CF1cxtl {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qK8CF1cxtl .mbr-text,
-.cid-qK8CF1cxtl blockquote {
-  color: #767676;
-}
-.cid-qK8CF1cxtl BLOCKQUOTE {
-  color: #879a9f;
-}
-.cid-qK8CF1cxtl P {
-  color: #767676;
-}
-.cid-qK8VutxrTS {
-  padding-top: 60px;
-  padding-bottom: 105px;
-  background-image: url("../../../assets/images/verwaand-oculos-de-sol-capa-5-1920x1280.jpg");
-}
-.cid-qK8VutxrTS .mbr-section-subtitle {
-  color: #ffffff;
-  text-align: left;
-}
-.cid-qK8VutxrTS .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-qK8VutxrTS H2 {
-  color: #ffffff;
 }
 .cid-qK8CN349xi {
   padding-top: 30px;
@@ -2381,7 +2381,7 @@ body {
   color: #efefef !important;
 }
 .cid-qK8Ukblblh {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 15px;
   background-color: #000000;
 }
@@ -2843,7 +2843,7 @@ body {
   color: #efefef !important;
 }
 .cid-qK8Ukblblh {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 15px;
   background-color: #000000;
 }
@@ -3318,7 +3318,7 @@ body {
   color: #efefef !important;
 }
 .cid-qK8Ukblblh {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 15px;
   background-color: #000000;
 }
