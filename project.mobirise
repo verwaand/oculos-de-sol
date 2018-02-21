@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "VERWAAND",
-    "currentPage": "index.html",
+    "currentPage": "masculino.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2608,10 +2608,10 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#787324"
+              "color": "#000000"
             },
             "B": {
-              "color": "#232323"
+              "color": "#000000"
             },
             "SPAN": {
               "color": "#000000"
