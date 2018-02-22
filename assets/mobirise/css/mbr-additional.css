@@ -3403,8 +3403,23 @@ body {
 .cid-qKlBsvuF05 .dropdown-item:hover {
   color: #efefef !important;
 }
+.cid-qKoy0YgeKC {
+  padding-top: 120px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qKoy0YgeKC .mbr-text,
+.cid-qKoy0YgeKC blockquote {
+  color: #767676;
+}
+.cid-qKoy0YgeKC SPAN {
+  color: #767676;
+}
+.cid-qKoy0YgeKC DIV {
+  text-align: left;
+}
 .cid-qKlqpwUoDN {
-  padding-top: 135px;
+  padding-top: 30px;
   padding-bottom: 135px;
   background-color: #ffffff;
 }
