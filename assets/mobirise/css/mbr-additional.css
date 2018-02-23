@@ -1289,6 +1289,17 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-qKt1TjevmR {
+  background-image: url("../../../assets/images/mbr-3-1620x1080.jpg");
+}
+.cid-qKt1TjevmR H1 {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-qKt1TjevmR .mbr-text,
+.cid-qKt1TjevmR .mbr-section-btn {
+  text-align: center;
+}
 .cid-qK8xkwHToh .navbar {
   padding: .5rem 0;
   background: #000000;
@@ -1677,28 +1688,6 @@ body {
 .cid-qK8xkwHToh .nav-link:hover,
 .cid-qK8xkwHToh .dropdown-item:hover {
   color: #efefef !important;
-}
-.cid-qK8AF7dIP9 {
-  background-image: url("../../../assets/images/verwaand-oculos-de-sol-capa-banner-3-1352x804.jpg");
-}
-.cid-qK8AF7dIP9 h1 {
-  color: #616161;
-}
-.cid-qK8AF7dIP9 h2,
-.cid-qK8AF7dIP9 h3,
-.cid-qK8AF7dIP9 p {
-  color: #767676;
-}
-.cid-qK8AF7dIP9 .mbr-section-subtitle {
-  font-style: italic;
-}
-.cid-qK8AF7dIP9 H1 {
-  color: #ffffff;
-  text-align: left;
-}
-.cid-qK8AF7dIP9 H3 {
-  color: #ffffff;
-  text-align: left;
 }
 .cid-qK8CF1cxtl {
   padding-top: 75px;
