@@ -1,6 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700);
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700);
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
 
@@ -22,14 +21,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Oswald', sans-serif;
-  font-size: 4rem;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 3.8rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.4rem;
+  font-size: 6.08rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
   font-size: 2.8rem;
 }
 .display-2 > .mbr-iconfont {
@@ -63,9 +62,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.2rem;
-    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.04rem;
+    font-size: calc( 1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.24rem;
@@ -1717,7 +1716,7 @@ body {
 }
 .cid-qK8VutxrTS {
   padding-top: 120px;
-  padding-bottom: 90px;
+  padding-bottom: 120px;
   background-image: url("../../../assets/images/verwaand-oculos-de-sol-capa-5-1920x1280.jpg");
 }
 .cid-qK8VutxrTS .mbr-section-subtitle {
@@ -1736,7 +1735,7 @@ body {
   background-color: #ffffff;
 }
 .cid-qK8XyME0zJ {
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
