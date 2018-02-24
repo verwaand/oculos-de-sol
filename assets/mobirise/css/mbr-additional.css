@@ -30,10 +30,10 @@ body {
 }
 .display-2 {
   font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 3.2rem;
+  font-size: 3.8rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 5.12rem;
+  font-size: 6.08rem;
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
@@ -68,9 +68,9 @@ body {
     line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.56rem;
-    font-size: calc( 1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.04rem;
+    font-size: calc( 1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.96rem;
@@ -1290,15 +1290,19 @@ body {
   display: none;
 }
 .cid-qKt1TjevmR {
-  background-image: url("../../../assets/images/mbr-3-1620x1080.jpg");
+  background-image: url("../../../assets/images/mbr-5-1620x1080.jpg");
 }
 .cid-qKt1TjevmR H1 {
   color: #ffffff;
-  text-align: center;
+  text-align: right;
 }
 .cid-qKt1TjevmR .mbr-text,
 .cid-qKt1TjevmR .mbr-section-btn {
-  text-align: center;
+  text-align: right;
+}
+.cid-qKt1TjevmR .mbr-text,
+.cid-qKt1TjevmR .mbr-section-btn B {
+  color: #ffffff;
 }
 .cid-qK8xkwHToh .navbar {
   padding: .5rem 0;
@@ -1763,6 +1767,10 @@ body {
   .cid-qK8XyME0zJ .card-img span {
     font-size: 40px !important;
   }
+}
+.cid-qK8XyME0zJ .card-title,
+.cid-qK8XyME0zJ .card-img {
+  color: #000000;
 }
 .cid-qK8CN349xi {
   padding-top: 30px;
