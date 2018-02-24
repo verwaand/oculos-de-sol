@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "VERWAAND",
-    "currentPage": "feminino.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/verwaand-oculos-de-sol-logo-positivo-128x128.png",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-114711349-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-114711349-1');\r\n</script>",
     "siteUrl": "http://verwaand.store/",
     "versionFirst": "4.6.3",
     "uniqCompNum": 59,
