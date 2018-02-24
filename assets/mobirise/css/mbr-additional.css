@@ -3400,8 +3400,13 @@ body {
 .cid-qKlBsvuF05 .dropdown-item:hover {
   color: #efefef !important;
 }
+.cid-qKxqLbj9hN {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-9-1620x1080.jpg");
+}
 .cid-qKoy0YgeKC {
-  padding-top: 120px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
