@@ -4052,23 +4052,19 @@ body {
 .cid-qKlC1cZHsg .dropdown-item:hover {
   color: #efefef !important;
 }
-.cid-qKCBTw2S0h {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/oculos-de-sol-verwaand-top-style-1-1920x1080.jpg");
+.cid-qKI5DBBGmU {
+  background-image: url("../../../assets/images/mbr-19-1620x1080.jpg");
 }
-.cid-qKCBTw2S0h H2 {
-  text-align: center;
+.cid-qKI5DBBGmU H1 {
+  text-align: left;
+}
+.cid-qKI5DBBGmU .mbr-text,
+.cid-qKI5DBBGmU .mbr-section-btn {
+  text-align: left;
   color: #ffffff;
 }
-.cid-qKCBTw2S0h .mbr-section-subtitle {
-  text-align: center;
+.cid-qKI5DBBGmU B {
   color: #ffffff;
-}
-.cid-qKD6xBqExk {
-  padding-top: 60px;
-  padding-bottom: 75px;
-  background-color: #000000;
 }
 .cid-qKCBTAQmmk {
   padding-top: 90px;
